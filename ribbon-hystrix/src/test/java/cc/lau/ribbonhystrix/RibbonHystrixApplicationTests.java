@@ -1,4 +1,4 @@
-package cc.lau.configclientgit;
+package cc.lau.ribbonhystrix;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ConfigClientGitApplicationTests {
+public class RibbonHystrixApplicationTests {
 
     @Test
     public void contextLoads() {

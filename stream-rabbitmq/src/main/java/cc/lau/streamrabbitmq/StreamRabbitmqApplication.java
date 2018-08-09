@@ -1,13 +1,12 @@
-package cc.lau.configclientgit;
+package cc.lau.streamrabbitmq;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
 @SpringBootApplication
-public class ConfigClientGitApplication {
+public class StreamRabbitmqApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ConfigClientGitApplication.class, args);
+        SpringApplication.run(StreamRabbitmqApplication.class, args);
     }
 }
